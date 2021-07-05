@@ -1,0 +1,49 @@
+body {
+  font-family: spartan;
+}
+
+#parent {
+  padding: 40px;
+  background-color: rgb(91, 156, 214);
+}
+
+h1 {
+  display: inline-block;
+  margin-right: 270px;
+}
+
+div {
+  color: white;
+}
+ul.a{
+	  display: inline-block;
+  margin-left: 10px;
+}
+ul.b{
+	  display: inline-block;
+  margin-left: 10px;
+}
+.child {
+  display: inline-block;
+}
+span {
+  font-weight: 700;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.underline {
+  display: block;
+  border-bottom: 1px solid black; 
+padding-top:5px;  
+padding-bottom:10px;
+}  
+text {
+  line-height: 20px;
+  text-align: center;
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+
+
